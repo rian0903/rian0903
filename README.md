@@ -89,7 +89,3 @@
 
 ---
 
-### 👾 Aesthetic Hacker Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoRK259KTRfjgIYJJ/giphy.gif" alt="Aesthetic Typing" width="60%">
-</p>
